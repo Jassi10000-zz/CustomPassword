@@ -1,0 +1,25 @@
+{
+  "name": "CustomPassword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jassi10000/CustomPassword.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jassi10000/CustomPassword/issues"
+  },
+  "homepage": "https://github.com/Jassi10000/CustomPassword#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.1.0"
+  }
+}
