@@ -1,0 +1,6 @@
+customPassword will be used as a command line tool to generate custom password 
+We will using the following to achieve written in front of them
+1. commander.js --> to pass all that options to generate password of our choice
+2. chalk --> to colour output in the terminal
+3. clipboardy --> to copy the generated password to the clipboard
+4. fs --> fs module to save the module to the file
