@@ -46,8 +46,10 @@ The same password gets saved my custom named file <b>mypasswords.txt</b>
 </p>
 
 ## 🏍 To use , view or run the code :
-
-<img src="https://media.giphy.com/media/kdiLau77NE9Z8vxGSO/giphy.gif" width="40%"><br>
+<p align="center">
+<img src="https://media.giphy.com/media/kdiLau77NE9Z8vxGSO/giphy.gif" width="40%">
+</p>
+<br>
 
 - Clone / Download :
 
@@ -55,7 +57,10 @@ The same password gets saved my custom named file <b>mypasswords.txt</b>
 
 - Open the project in your favorite code editor and do following
 
-       npm install @tensorflow/tfjs @tensorflow-models/face-landmarks-detection react-webcam
+       npm install commader chalk clipboardly
+
+## 📌 Want to try it from scratch ❓
+We got you covered , head over to <strong>starterFiles</strong> branch of the repository to download the starter files of the project and get set go !!!  🏍
 
 ## ✍ Contributing :
 
