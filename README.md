@@ -57,7 +57,7 @@ The same password gets saved my custom named file <b>mypasswords.txt</b>
 
 - Open the project in your favorite code editor and do following
 
-       npm install commader chalk clipboardly
+       npm install commander chalk clipboardly
 
 ## 📌 Want to try it from scratch ❓
 We got you covered , head over to <strong>starterFiles</strong> branch of the repository to download the starter files of the project and get set go !!!  🏍
