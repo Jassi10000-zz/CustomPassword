@@ -11,9 +11,7 @@
 ## Technolgies used :
 
 <p>
-    <img src="./Images/node2.jpg" width="100px">
-    <br>
-    <b><h4>Node.Js</h4></b>
+    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <b><h4>Node.Js packages</h4></b>
